@@ -24,6 +24,7 @@
   "host_permissions": [
     "<all_urls>"
   ],
+  "incognito": "spanning",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",

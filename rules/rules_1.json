@@ -104155,6 +104155,386 @@
             "urlFilter": "*://*defender*.css",
 			"resourceTypes": ["stylesheet"]
         }
+    },
+	
+	{
+        "id": 9469,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ad.js*",
+			"resourceTypes": ["script"]
+        }
+    },
+	
+	{
+        "id": 9470,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*pagead2.googlesyndication.com/bg/[^/]*\\.js*",
+			"resourceTypes": ["script"]
+        }
+    },
+	
+	{
+        "id": 9471,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*activeview_ext*",
+			"resourceTypes": ["script"]
+        }
+    },
+	
+	{
+        "id": 9472,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*sync.crwdcntrl.net/*"
+        }
+    },
+	
+	{
+        "id": 9473,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*.crwdcntrl.net/*"
+        }
+    },
+	
+	{
+        "id": 9474,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*crwdcntrl.net/*"
+        }
+    },
+	
+	{
+        "id": 9475,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*.g.doubleclick.net/*"
+        }
+    },
+	
+	{
+        "id": 9476,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*c.adsco.re/*"
+        }
+    },
+	
+	{
+        "id": 9477,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*.adsco.re/*"
+        }
+    },
+	
+	{
+        "id": 9478,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adsco.re/*"
+        }
+    },
+	
+	{
+        "id": 9479,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*a.dtssrv.com/*"
+        }
+    },
+	
+	{
+        "id": 9480,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*dtssrv.com/*"
+        }
+    },
+	
+	{
+        "id": 9481,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*secure.adnxs.com/*"
+        }
+    },
+	
+	{
+        "id": 9482,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*s.amazon-adsystem.com/*"
+        }
+    },
+	
+	{
+        "id": 9483,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*amazon-adsystem.com/*"
+        }
+    },
+	
+	{
+        "id": 9484,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*flibby.xyz/*"
+        }
+    },
+	
+	{
+        "id": 9485,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*enigasourgoah.net/*"
+        }
+    },
+	
+	{
+        "id": 9486,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*aha.incacneaan.com/*"
+        }
+    },
+	
+	{
+        "id": 9487,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adsblue.net/*"
+        }
+    },
+	
+	{
+        "id": 9488,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adultgames.space/*"
+        }
+    },
+	
+	{
+        "id": 9489,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*hbwncbwgyvgt.com/*"
+        }
+    },
+	
+	{
+        "id": 9490,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*hbwncbwgyvgt.com/*",
+			"resourceTypes": ["script"]
+        }
+    },
+	
+	{
+        "id": 9491,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*brasilparalelo.com.br/*"
+        }
+    },
+	
+	{
+        "id": 9492,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*.brasilparalelo.com.br/*"
+        }
+    },
+	
+	{
+        "id": 9493,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*brasilparalelo*/*"
+        }
+    },
+	
+	{
+        "id": 9494,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*lvalidate.min.js*",
+			"resourceTypes": ["script"]
+        }
+    },
+	
+	{
+        "id": 9495,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*efloating.css/*",
+			"resourceTypes": ["stylesheet"]
+        }
+    },
+	
+	{
+        "id": 9496,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*setypckq.com/*"
+        }
+    },
+	
+	{
+        "id": 9497,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*serfism.bassaqueued.top/*"
+        }
+    },
+	
+	{
+        "id": 9498,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*serfism.bassaqueued.*/*"
+        }
+    },
+	
+	{
+        "id": 9499,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*kdpxksukngrg.com/*"
+        }
+    },
+	
+	{
+        "id": 9500,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*egvpxypbxvnqjy.com/*"
+        }
+    },
+	
+	{
+        "id": 9501,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*blockadsnot.com/*"
+        }
+    },
+	
+	{
+        "id": 9502,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ujxnjzmdcqn.com/*"
+        }
     }
 ]
 
