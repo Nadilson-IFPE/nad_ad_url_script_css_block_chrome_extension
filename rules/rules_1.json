@@ -104535,6 +104535,699 @@
         "condition": {
             "urlFilter": "*://*ujxnjzmdcqn.com/*"
         }
+    },
+	
+	{
+        "id": 9503,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*fhvfd.com/*"
+        }
+    },
+	
+	{
+        "id": 9504,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*taginova.xyz/*"
+        }
+    },
+	
+	{
+        "id": 9505,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*lpm.fekon.uniga.ac.id/*"
+        }
+    },
+	
+	{
+        "id": 9506,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*au.vealingsaum.shop/*"
+        }
+    },
+	
+	{
+        "id": 9507,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*qxbroker.com/*"
+        }
+    },
+	
+	{
+        "id": 9508,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ng.belickzoeae.shop/*"
+        }
+    },
+	
+	{
+        "id": 9509,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*revcontent.network/*"
+        }
+    },
+	
+	{
+        "id": 9510,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*eumamae.com/*"
+        }
+    },
+	
+	{
+        "id": 9511,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*hype34fn.com/*"
+        }
+    },
+	
+	{
+        "id": 9512,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*heroadblocker.net/*"
+        }
+    },
+	
+	{
+        "id": 9513,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*northdownload.com/*"
+        }
+    },
+	
+	{
+        "id": 9514,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*2vaa.com/*"
+        }
+    },
+	
+	{
+        "id": 9515,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*search.find.newz.com/*"
+        }
+    },
+	
+	{
+        "id": 9516,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*nreg.es/*"
+        }
+    },
+	
+	{
+        "id": 9517,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*zzhentai.xyz/*"
+        }
+    },
+	
+	{
+        "id": 9518,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*latestnewznow.xyz/*"
+        }
+    },
+	
+	{
+        "id": 9519,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*api.avavotoptagfreefile.monster/*"
+        }
+    },
+	
+	{
+        "id": 9520,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*avavotoptagfreefile.monster/*"
+        }
+    },
+	
+	{
+        "id": 9521,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*x3os.com/*"
+        }
+    },
+	
+	{
+        "id": 9522,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*clicktreck.org/*"
+        }
+    },
+	
+	{
+        "id": 9523,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*aidlessreboots.cyou/*"
+        }
+    },
+	
+	{
+        "id": 9524,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*0x7r.ink/*"
+        }
+    },
+	
+	{
+        "id": 9525,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*fx3.store/*"
+        }
+    },
+	
+	{
+        "id": 9526,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*betano.bet.br/*"
+        }
+    },
+	
+	{
+        "id": 9527,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*bodogpoker.com/*"
+        }
+    },
+	
+	{
+        "id": 9528,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*superbet.bet.br/*"
+        }
+    },
+	
+	{
+        "id": 9529,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*pb2b.com/*"
+        }
+    },
+	
+	{
+        "id": 9530,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*madurird.com/*"
+        }
+    },
+	
+	{
+        "id": 9531,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*obqj2.com/*"
+        }
+    },
+	
+	{
+        "id": 9532,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*viijxyqp.com/*"
+        }
+    },
+	
+	{
+        "id": 9533,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*fragpunk.com/*"
+        }
+    },
+	
+	{
+        "id": 9534,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*selectionardour.com/*"
+        }
+    },
+	
+	{
+        "id": 9535,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*asthmanotchcave.com/*"
+        }
+    },
+	
+	{
+        "id": 9536,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*frs2c.com/*"
+        }
+    },
+	
+	{
+        "id": 9537,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*surrogateausteritywhence.com/*"
+        }
+    },
+	
+	{
+        "id": 9538,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*g2288.com/*"
+        }
+    },
+	
+	{
+        "id": 9539,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ephtheral.com/*"
+        }
+    },
+	
+	{
+        "id": 9540,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*d0dh.com/*"
+        }
+    },
+	
+	{
+        "id": 9541,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*tracker.mobiletracking.ru/*"
+        }
+    },
+	
+	{
+        "id": 9542,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*same-witness.com/*"
+        }
+    },
+	
+	{
+        "id": 9543,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*creatives.altaffiliatesol.co/*"
+        }
+    },
+	
+	{
+        "id": 9544,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*g2288.com/*"
+        }
+    },
+	
+	{
+        "id": 9545,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*digifinex.com/*"
+        }
+    },
+	
+	{
+        "id": 9546,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*offergate-ecommerce-update11.com/*"
+        }
+    },
+	
+	{
+        "id": 9547,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*wps.com/*"
+        }
+    },
+	
+	{
+        "id": 9548,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*54883.com/*"
+        }
+    },
+	
+	{
+        "id": 9549,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*digital.acrpoker.eu/*"
+        }
+    },
+	
+	{
+        "id": 9550,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*poker/*"
+        }
+    },
+	
+	{
+        "id": 9551,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ahspinxter.com/*"
+        }
+    },
+	
+	{
+        "id": 9552,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*downby.foodylobal.top/*"
+        }
+    },
+	
+	{
+        "id": 9553,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*soleustalions.top/*"
+        }
+    },
+	
+	{
+        "id": 9554,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*x3os.com/*"
+        }
+    },
+	
+	{
+        "id": 9555,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*techspheretalk.com/*"
+        }
+    },
+	
+	{
+        "id": 9556,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*heardaccumulatebeans.com/*"
+        }
+    },
+	
+	{
+        "id": 9557,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*bestwebs.online/*"
+        }
+    },
+	
+	{
+        "id": 9558,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*mogulupside.com/*"
+        }
+    },
+	
+	{
+        "id": 9559,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*openx.xyz/*"
+        }
+    },
+	
+	{
+        "id": 9560,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*usheebainaut.com/*"
+        }
+    },
+	
+	{
+        "id": 9561,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*exodusjailhousetarantula.com/*"
+        }
+    },
+	
+	{
+        "id": 9562,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*okx.com/*"
+        }
+    },
+	
+	{
+        "id": 9563,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*trasupr.com/*"
+        }
+    },
+	
+	{
+        "id": 9564,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*drsmexa.xyz/*"
+        }
+    },
+	
+	{
+        "id": 9565,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*vinstigo.com/*"
+        }
     }
 ]
 
