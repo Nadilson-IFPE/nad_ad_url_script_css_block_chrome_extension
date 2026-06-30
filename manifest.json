@@ -18,6 +18,8 @@
 	"declarativeNetRequestFeedback", 
 	"tabs",
 	"webRequest",
+	"webRequestBlocking",
+	"declarativeNetRequestWithHostAccess",
 	"scripting",
 	"storage"
   ],
@@ -34,9 +36,20 @@
     "default_popup": "popup/popup.html",
     "default_icon": "icons/icon48.png"
   },
+  "background": {
+    "service_worker": "scripts/service_worker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scripts/content.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
   "web_accessible_resources": [
     {
-      "resources": ["rules_1.json", "popup.js"],
+      "resources": ["rules/rules_1.json", "popup/popup.js", "messages/message.html"],
       "matches": ["<all_urls>"]
     }
   ]
